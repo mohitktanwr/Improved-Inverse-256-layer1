@@ -15,7 +15,7 @@
 
 
 # ResNeSt
-Split-Attention Network, A New ResNet Variant. It significantly boosts the performance of downstream models such as Mask R-CNN, Cascade R-CNN and DeepLabV3.
+ISPRS 5_5 convolution 256 layer output. Split-Attention Network, A New ResNet Variant. It significantly boosts the performance of downstream models such as Mask R-CNN, Cascade R-CNN and DeepLabV3.
 
 ![](./miscs/abstract.jpg)
 
